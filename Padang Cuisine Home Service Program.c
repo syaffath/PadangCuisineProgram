@@ -1,9 +1,9 @@
-/*===================================================
+/*======================================================
 	PADANG CUISINE HOME SERVICE PROGRAM DEVELOPED BY 
-     	  AHMAD ZAMZAMI & SYAFIQ FATHULLAH
-		DEPARTMENT OF ELECTRICAL ENGINEERING
-			 UNIVERSITAS INDONESIA
-=====================================================*/
+     	      AHMAD ZAMZAMI & SYAFIQ FATHULLAH
+	    DEPARTMENT OF ELECTRICAL ENGINEERING
+	          UNIVERSITAS INDONESIA
+======================================================*/
 
 //input library
 #include <stdio.h> 
